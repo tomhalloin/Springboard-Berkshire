@@ -8,6 +8,8 @@ If you plan to run this code, make sure to set the file locations and shortcuts 
 
 [Notebook to Scrape the Letters](https://github.com/toshimelonhead/Springboard-Berkshire/blob/master/Notebooks/Final%20Version/Scraping_Letters.ipynb)
 
+^ I would recommend not running this notebook and just using the letters that come with it instead because usually, Berkshire's website denies me access from scraping multiple letters at once. 
+
 [Notebook for Everything Else](https://nbviewer.jupyter.org/github/toshimelonhead/Springboard-Berkshire/blob/e0c3270166722a21765e415b4de800396537ec99/Notebooks/Final%20Version/Final_Version.ipynb)
 
 [Final Writeup](https://github.com/toshimelonhead/Springboard-Berkshire/blob/master/Reports/Final%20Paper.pdf)
