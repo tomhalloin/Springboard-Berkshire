@@ -1,6 +1,4 @@
-# Berkshire_Github_Version
- 
-Springboard Capstone Project II: Topic Model Analysis of Berkshire Hathaway's Shareholder Letters
+# Springboard Capstone Project II: Topic Model Analysis of Berkshire Hathaway's Shareholder Letters
 
 This project is an analysis of Berkshire Hathaway's annual letters using Natural Language Processing with Python. Approaches included three types of extractive summarization: [LexRank](https://raw.githubusercontent.com/toshimelonhead/Springboard-Berkshire/master/Outputs/Summaries/LexRank_Summaries_summaries.txt), [TextRank](https://raw.githubusercontent.com/toshimelonhead/Springboard-Berkshire/master/Outputs/Summaries/TextRank_Summaries_summaries.txt), and [Latent Semantic Analysis](https://raw.githubusercontent.com/toshimelonhead/Springboard-Berkshire/master/Outputs/Summaries/LSA_Summaries_summaries.txt), as well as topic modeling using the Mallet wrapper from Gensim and a Java version of Mallet LDA. 
 
