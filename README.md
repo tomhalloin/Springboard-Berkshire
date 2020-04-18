@@ -8,6 +8,6 @@ If you plan to run this code, make sure to set the file locations and shortcuts 
 
 [Notebook for Everything Else](https://nbviewer.jupyter.org/github/toshimelonhead/Springboard-Berkshire/blob/e0c3270166722a21765e415b4de800396537ec99/Notebooks/Final%20Version/Final_Version.ipynb)
 
-[Final Writeup](https://github.com/toshimelonhead/Springboard-Berkshire/blob/master/Reports/Final%20Paper.pdf)
+[Final Writeup](https://github.com/toshimelonhead/Springboard-Berkshire/blob/master/Reports/Final%20Paper%202.0.pdf)
 
 [Final Presentation](https://github.com/toshimelonhead/Springboard-Berkshire/blob/master/Reports/Final%20Presentation.pdf)
