@@ -4,6 +4,8 @@ This project is an analysis of Berkshire Hathaway's annual letters using Natural
 
 If you plan to run this code, make sure to set the file locations and shortcuts for Mallet to your respective files on your computer, as otherwise, the code will not run on your computer.  I would recommend not running the notebook to scrape the letters and just using the letters that come with it instead because usually, Berkshire's website denies me access from scraping multiple letters at once. 
 
+Also note that the final topics change from run to run, even with the same random seed. The final topic distributions between the notebook and the report differ slightly.
+
 [Notebook to Scrape the Letters](https://github.com/toshimelonhead/Springboard-Berkshire/blob/master/Notebooks/Final%20Version/Scraping_Letters.ipynb)
 
 [Notebook for Everything Else](https://nbviewer.jupyter.org/github/toshimelonhead/Springboard-Berkshire/blob/e0c3270166722a21765e415b4de800396537ec99/Notebooks/Final%20Version/Final_Version.ipynb)
