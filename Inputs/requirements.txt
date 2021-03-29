@@ -124,7 +124,7 @@ pycountry==19.8.18
 pycparser==2.19
 pyct==0.4.6
 pyemd==0.5.1
-Pygments==2.4.2
+Pygments==2.7.4
 pyLDAvis==2.1.2
 pylint==2.4.2
 pyOpenSSL==19.0.0
